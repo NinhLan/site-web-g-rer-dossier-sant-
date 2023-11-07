@@ -13,3 +13,4 @@ Page d’accueil du médecin
 age d’accueil du médecin
 ![image](https://github.com/NinhLan/site-web-g-rer-dossier-sant-/assets/82390818/0288db2d-2423-47ce-8fe9-f0e260a14ac9)
 ![image](https://github.com/NinhLan/site-web-g-rer-dossier-sant-/assets/82390818/89e56208-40e0-4340-b31a-f1192f254c95)
+
